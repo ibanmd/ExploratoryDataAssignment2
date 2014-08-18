@@ -1,4 +1,8 @@
-ExploratoryDataAssignment2
-==========================
+# Exploratory Data Analysis Project 2
+### August 2014
 
-Assignment 2 for JHU Exploratory Data Analysis
+## For my graders...
+
+## Information about the files and data
+
+
