@@ -14,3 +14,4 @@ sapply(data.frame(sapply(SCC, is.na)), sum)
 ## Checking the NEI dataframe, there are no NA's
 sum(is.na(NEI))
 
+## In the end that's all I really did, check and see where the NA's were.  Otherwise everything was straight forward.
