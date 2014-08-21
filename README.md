@@ -19,6 +19,6 @@ This plot shows that both the total mass of emissions went down through the year
 This plot shows that both the total mass of emissions went down through the years, as well as the average mass of each observation.  Note that the blue line has values of Pounds while the red line has values of Thousand Pounds.
 
 ### Plot 6
-This plot shows that Los Angeles had increasing levels of emissions until 2005, until beginning to decrease again.  Baltimore emissions have been decreasing thoughout the time frame.  Note that both values are in Tons and that there are two different y-axis labels, one for each city.  The Los Angeles values are much larger than the Baltimore values.
+This plot shows that Los Angeles had increasing levels of emissions until 2005, until beginning to decrease again.  Baltimore emissions have been decreasing throughout the time frame.  Note that both values are in Tons and that there are two different y-axis labels, one for each city.  The Los Angeles values are much larger than the Baltimore values.  Comparing 1999 to 2008, Baltimore’s values changed more in an absolute sense as well as in a relative sense.
 
 
